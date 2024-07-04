@@ -18,13 +18,19 @@
 
 ### 과목 및 내용
 #### 필기
+<img width="966" alt="image" src="https://github.com/yuneun92/study/assets/150312081/1026a978-3cdd-46c2-be6a-f0ee4241fdf2">
 <img width="813" alt="image" src="https://github.com/yuneun92/study/assets/150312081/23719a5d-54ed-4309-ba10-3e0bde332bee">
 <img width="813" alt="image" src="https://github.com/yuneun92/study/assets/150312081/3317fd34-59ab-4c92-be93-8eb8e90eef59">
 <img width="813" alt="image" src="https://github.com/yuneun92/study/assets/150312081/a91dfa34-da57-4ce9-95b6-ccf487bce1a7">
 <img width="813" alt="image" src="https://github.com/yuneun92/study/assets/150312081/181dce89-0bab-4040-a071-6d8cc11f2515">
 
 #### 실기
+<img width="966" alt="image" src="https://github.com/yuneun92/study/assets/150312081/b32fe9f0-2c0f-4236-be31-30ba7a9fbc93">
 <img width="813" alt="image" src="https://github.com/yuneun92/study/assets/150312081/ed4f2adf-cedf-4cc0-8475-4928c903f6db">
 
 
 ## 📋 References
+| Classification     | Site             |
+| ------------------ | :--------------: |
+| 자격 안내 | [데이터자격검정](https://www.dataq.or.kr/www/sub/a_07.do#none) |
+| 시험 접수 | [데이터자격검정](https://www.dataq.or.kr/www/accept/schedule.do) |
