@@ -33,8 +33,11 @@ DMS과 설계자 사이에서 데이터베이스의 생성, 테이블 생성, �
   * `HTML`로 페이지 구성
   * `JAVASCRIPT`로 동적 활동 부여
   * `CSS`로 표준화
+  * 기능 구현: 관리 페이지, 입력 및 검색 페이지, 결과 페이지
+  * IDE(Integrity Development Environment, 무료클라우드) 활용한 서버 구현
 * DB와 연결 처리
   * `PYTHON`
-  * `DJANGO`
-* DB 구축
+  * `DJANGO`: 파이썬 기반 프레임워크
+* DB 구축 - 데이터 품질 고려
   * `MySQL`
+  * `ERD` 작성 (명확성)
